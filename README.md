@@ -60,4 +60,4 @@ The Bamazon Executive Portal allows users to view the total profits of the store
 
 ### Copyright
 
-Paul Pinho � 2018. All Rights Reserved.
+Paul Pinho © 2018. All Rights Reserved.
